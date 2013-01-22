@@ -1,0 +1,3 @@
+[submodule "django-announcements"]
+	path = django-announcements
+	url = https://github.com/weijia/django-announcements.git
